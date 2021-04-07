@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: creator.contact
+Token: a691d1474c457afe7296c6b82dadc5233e42b18c3bcb0e5fc005924200f95ec4
